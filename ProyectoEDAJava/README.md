@@ -15,7 +15,7 @@ Luego aplicamos **QuickSort** y **MergeSort** en versiones **secuenciales** y **
 
 ## Salida esperada
 ```
-===== CLASIFICACIÓN OMS =====
+    CLASIFICACIÓN OMS 
 Bajo peso: 125000 registros
 Peso normal: 210000 registros
 Sobrepeso: 300000 registros
